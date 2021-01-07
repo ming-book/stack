@@ -23,9 +23,6 @@
     <ClCompile Include="pch.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="stackDemo.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="stack.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
